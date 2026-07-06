@@ -19,4 +19,4 @@ Data Source:
 Kaggle — Blinkit Sales Dataset 
 
 Screenshort/Dashboard:
-show what the dashboard look like - 
+show what the dashboard look like - (https://github.com/9990-M/Blinkit-Dashboard/blob/main/blinkit%20dashboard.png)
